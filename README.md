@@ -1,3 +1,1 @@
-# Hi, I'm Esther 👋
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Esther-ingabire)
+<img src="https://streak-stats.demolab.com?user=Esther-ingabire&theme=gruvbox&hide_border=true" alt="GitHub Streak" />
